@@ -1,2 +1,5 @@
 Hola.
 Mi nombre es osvaldo.
+Me gusta estudiar desarrollo web.
+
+Me encanta el pollo asado.
