@@ -1,3 +1,4 @@
+
 body{
     text-align: center;
 }
@@ -11,4 +12,25 @@ body{
     border-radius: 10px;
     font-size: 1.5em;
     padding: .2em;
+}
+main {
+    width: 40%;
+    font-size: 16px;
+    margin: 0 auto;
+    background-color:aliceblue;
+    border:#DDD .1em solid;
+    box-shadow: 3px 5px 5px #333;
+}
+
+.Noticia .articulo{
+    padding: 1em;
+}
+.Noticia .articulo h1{
+    color: red;
+    font-family: sans-serif;
+}
+
+.Noticia .articulo p{
+    color:#333;
+    font-family: sans-serif;
 }
