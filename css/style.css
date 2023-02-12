@@ -1,3 +1,14 @@
 body{
     text-align: center;
 }
+
+.boton a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color:brown;
+    background-color: blanchedalmond;
+    border: .1em solid;
+    border-radius: 10px;
+    font-size: 1.5em;
+    padding: .2em;
+}
