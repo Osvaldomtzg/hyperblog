@@ -1,3 +1,24 @@
+
 body{
     text-align: center;
+}
+
+main {
+    width: 60%;
+    font-size: 16px;
+    margin: 0 auto;
+    background-color:aliceblue;
+    border:#333 .1em solid;
+}
+
+.articulo{
+    padding: 1em;
+}
+.articulo h1{
+    color: red;
+    font-family: sans-serif;
+}
+
+.articulo p{
+    color:#333;
 }
