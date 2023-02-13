@@ -21,6 +21,8 @@ main {
     border:#DDD .1em solid;
     box-shadow: 3px 5px 5px #333;
     padding: 1em;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .Noticia .articulo{
@@ -34,4 +36,12 @@ main {
 .Noticia .articulo p{
     color:#333;
     font-family: sans-serif;
+}
+
+.footer{
+    text-align: center;
+    padding: .5em;
+    background-color: bisque;
+    margin-top: 1.5em;
+    color:#333;
 }
